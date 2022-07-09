@@ -1,0 +1,5 @@
+Blue Bank Loan analysis
+
+Copy and past this link: https://public.tableau.com/app/profile/emerson.mcspadden/viz/BlueBankLoanAnalysis_16573569497860/Dashboard1
+
+To see my Blue Bank Loan analysis Project using Tableau
